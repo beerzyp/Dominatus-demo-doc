@@ -1,2 +1,2 @@
 # Dominatus-demo-doc
-<video src="video.mp4" width="320" height="200" controls preload></video>
+[![Demo]({image-url})]({video.mp4} "Ipoker deo")
